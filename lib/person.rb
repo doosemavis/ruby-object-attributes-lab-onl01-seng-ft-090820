@@ -19,5 +19,4 @@ end
 
 beyonce = Person.new 
 beyonce.name 
-
 beyonce.job
