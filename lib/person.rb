@@ -7,13 +7,14 @@ class Person
     @name 
   end 
   
-  def job=(singer)
-    @job = singer
+  def job=(job)
+    @job = job
   end 
   
-  def singer
+  def job
     @job
   end 
+  
 end 
 
 beyonce = Person.new 
