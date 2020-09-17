@@ -6,6 +6,11 @@ class Person
   def name
     @name 
   end 
+  
+  def job
 end 
+
+beyonce = Person.new 
+beyonce.name 
 
 
