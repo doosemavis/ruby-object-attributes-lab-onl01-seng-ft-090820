@@ -1,10 +1,10 @@
 class Dog
   
-  def name=(name)
+  def initialize(name)
     @name = name
   end
   
-  def read
+  def name
     @name
   end 
 end
